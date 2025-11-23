@@ -1,2 +1,1 @@
-# branch-pr-demo
-Practice for branches, pull requests, merge conflicts
+This is the MAIN branch content.
