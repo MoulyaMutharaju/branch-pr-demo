@@ -1,2 +1,1 @@
-# branch-pr-demo
-Practice for branches, pull requests, merge conflicts
+This change was made in feature-1 branch.
